@@ -1,7 +1,6 @@
 module.exports = async function handler(req, res) {
 
-  const allowedOrigin = "https://cpcontents.adobe.com",
-    "https://*.adobe.com"; 
+  const allowedOrigin = "https://cpcontents.adobe.com"; 
 
   
 
